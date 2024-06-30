@@ -3,3 +3,25 @@ body {
   height: 100%;
   margin: 0;
 }
+header {
+  position: relative;top: 50%;left: 50%;
+}
+img {
+  position: relative;top: 50%;left: 30%;
+}
+a {
+  padding-left: 10px;padding-right: 10px;
+  color: chartreuse;
+}
+figcaption {
+  font-size: small;
+  text-align: center;
+}
+p {
+  width: 800px;
+}
+div {
+  float: left;
+  background-color: green;
+  width: 25%;
+}
